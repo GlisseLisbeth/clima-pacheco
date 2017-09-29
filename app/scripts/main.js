@@ -1,5 +1,5 @@
 import ciudades from './data';
-import './plugin';
+import './plugin-pacheco';
 
 $(() => {
   $('.row.marketing').pacheco({ciudades});
